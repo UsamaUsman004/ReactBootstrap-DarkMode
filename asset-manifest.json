@@ -1,25 +1,22 @@
 {
   "files": {
     "main.css": "/ReactBootstrap-DarkMode/static/css/main.4dfc76a2.chunk.css",
-    "main.js": "/ReactBootstrap-DarkMode/static/js/main.d1e9e92f.chunk.js",
-    "main.js.map": "/ReactBootstrap-DarkMode/static/js/main.d1e9e92f.chunk.js.map",
-    "runtime-main.js": "/ReactBootstrap-DarkMode/static/js/runtime-main.ef6f440c.js",
-    "runtime-main.js.map": "/ReactBootstrap-DarkMode/static/js/runtime-main.ef6f440c.js.map",
-    "static/css/2.818011ed.chunk.css": "/ReactBootstrap-DarkMode/static/css/2.818011ed.chunk.css",
-    "static/js/2.e877d0e3.chunk.js": "/ReactBootstrap-DarkMode/static/js/2.e877d0e3.chunk.js",
-    "static/js/2.e877d0e3.chunk.js.map": "/ReactBootstrap-DarkMode/static/js/2.e877d0e3.chunk.js.map",
-    "static/js/3.70033e19.chunk.js": "/ReactBootstrap-DarkMode/static/js/3.70033e19.chunk.js",
-    "static/js/3.70033e19.chunk.js.map": "/ReactBootstrap-DarkMode/static/js/3.70033e19.chunk.js.map",
+    "main.js": "/ReactBootstrap-DarkMode/static/js/main.c15886a7.chunk.js",
+    "main.js.map": "/ReactBootstrap-DarkMode/static/js/main.c15886a7.chunk.js.map",
+    "runtime-main.js": "/ReactBootstrap-DarkMode/static/js/runtime-main.60c186f7.js",
+    "runtime-main.js.map": "/ReactBootstrap-DarkMode/static/js/runtime-main.60c186f7.js.map",
+    "static/js/2.7381218c.chunk.js": "/ReactBootstrap-DarkMode/static/js/2.7381218c.chunk.js",
+    "static/js/2.7381218c.chunk.js.map": "/ReactBootstrap-DarkMode/static/js/2.7381218c.chunk.js.map",
+    "static/js/3.79b2bbd8.chunk.js": "/ReactBootstrap-DarkMode/static/js/3.79b2bbd8.chunk.js",
+    "static/js/3.79b2bbd8.chunk.js.map": "/ReactBootstrap-DarkMode/static/js/3.79b2bbd8.chunk.js.map",
     "index.html": "/ReactBootstrap-DarkMode/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/ReactBootstrap-DarkMode/static/css/2.818011ed.chunk.css.map",
     "static/css/main.4dfc76a2.chunk.css.map": "/ReactBootstrap-DarkMode/static/css/main.4dfc76a2.chunk.css.map",
-    "static/js/2.e877d0e3.chunk.js.LICENSE.txt": "/ReactBootstrap-DarkMode/static/js/2.e877d0e3.chunk.js.LICENSE.txt"
+    "static/js/2.7381218c.chunk.js.LICENSE.txt": "/ReactBootstrap-DarkMode/static/js/2.7381218c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef6f440c.js",
-    "static/css/2.818011ed.chunk.css",
-    "static/js/2.e877d0e3.chunk.js",
+    "static/js/runtime-main.60c186f7.js",
+    "static/js/2.7381218c.chunk.js",
     "static/css/main.4dfc76a2.chunk.css",
-    "static/js/main.d1e9e92f.chunk.js"
+    "static/js/main.c15886a7.chunk.js"
   ]
 }
